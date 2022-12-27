@@ -67,6 +67,7 @@ font-size: 18px;
 }
 .design-section .card-img-overlay {
     background: rgba(0 0 0 / 75%);
+    transition: background 0.6s linear;
 }
 .design-section .card:hover .card-img-overlay {
     background: rgba(0 0 0 / 0%);
